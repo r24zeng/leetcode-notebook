@@ -8,4 +8,5 @@
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [143. Reorder List](143.-reorder-list.md)
+* [148. Sort List](148.-sort-list.md)
 
