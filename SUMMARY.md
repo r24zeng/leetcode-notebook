@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [81. Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
 * [86. Partition List](86.-partition-list.md)
