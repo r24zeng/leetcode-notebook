@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [81. Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
+* [86. Partition List](86.-partition-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [127. Word Ladder](127.-word-ladder.md)
 * [143. Reorder List](143.-reorder-list.md)
