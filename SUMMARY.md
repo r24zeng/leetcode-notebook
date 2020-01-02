@@ -7,6 +7,7 @@
 * [86. Partition List](86.-partition-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [127. Word Ladder](127.-word-ladder.md)
+* [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](141.-linked-list-cycle.md)
 * [142. Linked List Cycle II](142.-linked-list-cycle-ii.md)
 * [143. Reorder List](143.-reorder-list.md)
