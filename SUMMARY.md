@@ -16,3 +16,7 @@
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
+## Dynamic programming
+
+* [120. Triangle](dynamic-programming/120.-triangle.md)
+
