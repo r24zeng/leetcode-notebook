@@ -11,8 +11,8 @@
 
 * [120. Triangle](dynamic-programming/120.-triangle.md)
 * [81. Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
-* [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii/README.md)
-  * [23. Merge k Sorted Lists](82.-remove-duplicates-from-sorted-list-ii/23.-merge-k-sorted-lists.md)
+* [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
+  * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [86. Partition List](86.-partition-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [127. Word Ladder](127.-word-ladder.md)

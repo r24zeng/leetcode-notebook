@@ -1,5 +1,5 @@
 ---
-description: 二分查找法原型代码
+description: '#704. Binary Search (二分查找法原型代)'
 ---
 
 # Fundamentation
@@ -49,8 +49,8 @@ class Solution{
 
 {% tab title="Python" %}
 ```python
-class Soultion{
-    def binarySearch(nums, target){
+class Soultion:
+    def binarySearch(nums, target):
         start = 0
         end = len(nums)-1
         if len(nums)==0:
@@ -71,8 +71,6 @@ class Soultion{
             return end
         else:
             return -1
-    }
-}
 ```
 {% endtab %}
 {% endtabs %}
