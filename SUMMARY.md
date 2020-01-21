@@ -1,18 +1,28 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## I. Binary Search
-
-* [Fundamentation](i.-binary-search/fundamentation.md)
-* [Untitled](i.-binary-search/untitled.md)
-
-## Dynamic programming
-
-* [120. Triangle](dynamic-programming/120.-triangle.md)
-* [81. Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
-* [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
-  * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
+* [I. Binary Search](binary-search/README.md)
+  * [35. Search Insert Position](binary-search/untitled.md)
+  * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
+  * [81. Search in Rotated Sorted Array II](binary-search/81.-search-in-rotated-sorted-array-ii.md)
+  * [74. Search a 2D Matrix](binary-search/74.-search-a-2d-matrix.md)
+  * [240. Search a 2D Matrix II](binary-search/240.-search-a-2d-matrix-ii.md)
+  * [278. First Bad Version](binary-search/278.-first-bad-version.md)
+  * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+* [II. Sorted Array](ii.-sorted-array/README.md)
+  * [26. Remove Duplicates from Sorted Array](ii.-sorted-array/26.-remove-duplicates-from-sorted-array.md)
+  * [80. Remove Duplicates from Sorted Array II](ii.-sorted-array/80.-remove-duplicates-from-sorted-array-ii.md)
+  * [88. Merge Sorted Array](ii.-sorted-array/88.-merge-sorted-array.md)
+  * [23. Merge k Sorted Lists](ii.-sorted-array/23.-merge-k-sorted-lists.md)
+  * [4. Median of Two Sorted Arrays](ii.-sorted-array/4.-median-of-two-sorted-arrays.md)
+  * [33. Search in Rotated Sorted Array](ii.-sorted-array/33.-search-in-rotated-sorted-array.md)
+  * [81. Search in Rotated Sorted Array II](ii.-sorted-array/81.-search-in-rotated-sorted-array-ii.md)
+  * [796. Rotate String](ii.-sorted-array/796.-rotate-string.md)
+  * [557. Reverse Words in a String III](ii.-sorted-array/557.-reverse-words-in-a-string-iii.md)
+  * [Reverse Linked List II](ii.-sorted-array/reverse-linked-list-ii.md)
+* [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii/README.md)
+  * [23. Merge k Sorted Lists](82.-remove-duplicates-from-sorted-list-ii/23.-merge-k-sorted-lists.md)
+* [120. Triangle](120.-triangle.md)
 * [86. Partition List](86.-partition-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [127. Word Ladder](127.-word-ladder.md)

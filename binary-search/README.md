@@ -2,7 +2,7 @@
 description: '#704. Binary Search (二分查找法原型代)'
 ---
 
-# Fundamentation
+# I. Binary Search
 
 {% hint style="info" %}
 ### Key point:
