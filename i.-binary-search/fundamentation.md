@@ -75,3 +75,5 @@ class Soultion:
 {% endtab %}
 {% endtabs %}
 
+Binary search time complexity is $$O(lgN)$$ , space comlexity is $$O(lgN)$$ 
+
