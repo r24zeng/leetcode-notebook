@@ -4,63 +4,45 @@ description: '# easy'
 
 # 35. Search Insert Position
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
+{% hint style="info" %}
+### Key idea: the condition of jump out of while loop
 
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
+### 核心： 跳出while循环的关键
+{% endhint %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+### Solution 1:
 
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+* `while start+1 < end`; `start = mid` or `end  = mid`
+* 跳出循环的条件start 和 end 相邻，因此跳出后要判断target和mid是否相等；无法判断此时target与start/end在数轴上的关系，因此要判断很多：
+* `target<start, return max(0,start-1)`
+* `target>end, return end+1`
+* `target == start, return start`
+* `target == end, return end`
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
+### Soultion 2:
 
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+* `while start <= end; start = mid+1 or end = mid-1`
+* 跳出循环的条件是，end和start交叉，即end&lt;start，可能性有两种：`mid=start=end`  =&gt;  `target<mid`  =&gt;  `end=mid-1`，则应该插入的位置为`start`；`mid = start, start+1=end`  =&gt; `target<mid`  =&gt; `end=mid-1`, 则应该插入的位置依然为`start`。
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
+两种方法的时间复杂度一样，但是方法二返回值更简单，死循环也避免了（因为`start=mid+1, end=mid-1`）
+
+### Solution 2 coding:
+
+```python
+def searchInsert(nums: List[int], target: int)->int:
+    start = 0
+    end = len(nums)-1
+    while start<=end:
+        mid = int((start+end)/2)
+        if target == nums[mid]:
+            return mid
+        elif target < nums[mid]:
+            end = mid-1
+        else:
+            start = mid+1
+    return start
 
 ```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
-```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
-
-```
-{    "message": "Ain't no cake like that."}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 
 
