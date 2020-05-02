@@ -4,6 +4,12 @@ description: '#704. Binary Search (二分查找法原型代)'
 
 # I. Binary Search
 
+Recursive is easier to write and understande;
+
+While loop is more complicated to write, but not easy to enter dead loop, and you'll impresive the interviewer because most interviewees prefer recursive. 
+
+If it's too complicated to code with while then use recursive to save time, otherwise use while.
+
 {% hint style="info" %}
 ### Key point:
 
