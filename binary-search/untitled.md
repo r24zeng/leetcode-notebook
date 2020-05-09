@@ -4,6 +4,8 @@ description: '# easy'
 
 # 35. Search Insert Position
 
+
+
 {% hint style="info" %}
 ### Key idea: the condition of jump out of while loop
 

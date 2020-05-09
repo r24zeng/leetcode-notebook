@@ -79,7 +79,7 @@ class Soultion:
             return -1
 ```
 
-> 这个方法跳出while循环后，结果是left &lt;= target &lt;= right，并且确保如果数组里有重复的target，一定会被至少保留一个
+> 这个方法跳出while循环后，结果是left &lt;= target &lt;= right 或者target &lt; left 或者target &gt; right，并且确保如果数组里有重复的target，一定会被至少保留一个
 {% endtab %}
 
 {% tab title="Python\(II\)" %}
