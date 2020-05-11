@@ -16,6 +16,7 @@
   * [88. Merge Sorted Array](ii.-sorted-array/88.-merge-sorted-array.md)
   * [23. Merge k Sorted Lists](ii.-sorted-array/23.-merge-k-sorted-lists-1.md)
   * [4. Median of Two Sorted Arrays](ii.-sorted-array/4.-median-of-two-sorted-arrays.md)
+  * [\# Recover rotated sorted array](ii.-sorted-array/recover-rotated-sorted-array.md)
   * [26. Remove Duplicates from Sorted Array](ii.-sorted-array/26.-remove-duplicates-from-sorted-array.md)
   * [80. Remove Duplicates from Sorted Array II](ii.-sorted-array/80.-remove-duplicates-from-sorted-array-ii.md)
   * [23. Merge k Sorted Lists](ii.-sorted-array/23.-merge-k-sorted-lists.md)
