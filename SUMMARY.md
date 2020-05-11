@@ -21,7 +21,7 @@
   * [26. Remove Duplicates from Sorted Array](ii.-sorted-array/26.-remove-duplicates-from-sorted-array.md)
   * [80. Remove Duplicates from Sorted Array II](ii.-sorted-array/80.-remove-duplicates-from-sorted-array-ii.md)
   * [557. Reverse Words in a String III](ii.-sorted-array/557.-reverse-words-in-a-string-iii.md)
-  * [Reverse Linked List II](ii.-sorted-array/reverse-linked-list-ii.md)
+* [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
 * [120. Triangle](120.-triangle.md)
