@@ -1,3 +1,7 @@
+---
+description: '# Easy'
+---
+
 # III. Binary Tree
 
 {% hint style="info" %}
@@ -68,6 +72,8 @@ class Solution:
 > Using help function to do recurcive, result list as one of two parameters, when root=None, return
 >
 > Add root, traversal left, then right
+>
+> return `result` at the end of whole functions
 
 1. Self define a traversal function, pass "root" and "result", so that "result" can be changed following recursive
 2. Add root.val to result, and traversal left, then right
@@ -77,13 +83,36 @@ class Solution:
 {% hint style="danger" %}
 In sub-function, only return and pass result list as a parameter; In main function, return result list???
 
-If return result list in sub-function, it is useless because result has been passed as a parameter. In main function, if return sub-function, then the result list will be None. Why? I tried, but don't know why.
+If return result list in sub-function, it is useless because result has been passed as a parameter. In main function, if return sub-function, then the result list will be None.Because it only returns initial result lis. Why? I tried, but don't know why.
 {% endhint %}
 {% endtab %}
 
 {% tab title="Python" %}
 ```python
-
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:    
+    def traversal(self, root, result):
+        if root == None:
+            return 
+        result.append(root.val)
+        self.traversal(root.left, result)
+        self.traversal(root.right, result)
+        
+        
+    def preorderTraversal(self, root: TreeNode) -> List[int]:
+        # consider edge case
+        result = []
+        if root == None:
+            return result
+        
+        # regular case
+        self.traversal(root, result)
+        return result
 ```
 {% endtab %}
 {% endtabs %}
@@ -92,13 +121,53 @@ If return result list in sub-function, it is useless because result has been pas
 
 {% tabs %}
 {% tab title="Divide & Conquer" %}
+> Recursive the funtion itself, return result during recursive
+>
+> Travesal left, right, and combine root, left, right at the end
+>
+> return `result` imediately in each recursion
 
+1. Initialize result list
+2. Return result list if satisfied stop condition
+3. Divide binary tree to root, left and right
+4. Conquer to do recursive
+5. Combine them again to get the completed result
+
+{% hint style="danger" %}
+When combine, using `result.extend()` instead of `result.append()`. Becaue `extend` means only add the elements of that list to another list, but `append` adds whole list directly
+{% endhint %}
 {% endtab %}
 
 {% tab title="Python" %}
-
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def preorderTraversal(self, root: TreeNode) -> List[int]:def preorderTraversal(self, root: TreeNode) -> List[int]:
+        # consider edge case
+        result = []
+        if root == None:
+            return result
+        
+        # regular case
+        # divide
+        left = self.preorderTraversal(root.left)
+        right = self.preorderTraversal(root.right)
+        
+        # conquer
+        result.append(root.val)
+        result.extend(left)
+        result.extend(right)
+        return result
+```
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 遍历2
 
