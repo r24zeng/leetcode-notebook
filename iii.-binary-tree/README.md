@@ -14,23 +14,91 @@ Inorder Traversal  \(中序遍历\): left inorder -&gt; root -&gt; right inorder
 
 Postorder Traversal  \(后序遍历\): leftpostorder -&gt; right postorder -&gt; root
 
-> Non-recursive
+> While loop
 
+{% tabs %}
+{% tab title="Non-recursive" %}
+> This is "while loop" method using stack
+
+1. Use a list as stack, stack.pop\(\) moves top element, stack.append\(\) pushes element to top. Because Python doesn't have stack data structure
+2. Append root to result list directly, push right leaf to stack, then push left leaf to stack
+3. Poop out an element, which is a new root so append it to result list, then push its right leaf to stack, then push left leaf to stack
+4. Until stack is empty
+
+{% hint style="danger" %}
+add root.val to result list instead of root, but operate root/left/right in stack list
+{% endhint %}
+{% endtab %}
+
+{% tab title="Python" %}
 ```python
-
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def preorderTraversal(self, root: TreeNode) -> List[int]:
+        # consider edge case
+        result = []
+        stack = []
+        if root == None:
+            return result
+        
+        # regular case
+        stack.append(root)
+        while len(stack) > 0:
+            root = stack.pop()
+            result.append(root.val)
+            print(result)
+            if root.right != None:
+                stack.append(root.right)
+            if root.left != None:
+                stack.append(root.left)
+        return result
 ```
+{% endtab %}
+{% endtabs %}
 
 > Recursive
 
+{% tabs %}
+{% tab title="Recursive" %}
+> Using help function to do recurcive, result list as one of two parameters, when root=None, return
+>
+> Add root, traversal left, then right
+
+1. Self define a traversal function, pass "root" and "result", so that "result" can be changed following recursive
+2. Add root.val to result, and traversal left, then right
+3. When root=None, return from sub-function
+4. return result in main function
+
+{% hint style="danger" %}
+In sub-function, only return and pass result list as a parameter; In main function, return result list???
+
+If return result list in sub-function, it is useless because result has been passed as a parameter. In main function, if return sub-function, then the result list will be None. Why? I tried, but don't know why.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Python" %}
 ```python
 
 ```
+{% endtab %}
+{% endtabs %}
 
 > Divide & Conquer
 
-```python
+{% tabs %}
+{% tab title="Divide & Conquer" %}
 
-```
+{% endtab %}
+
+{% tab title="Python" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### 遍历2
 
