@@ -23,6 +23,8 @@
   * [557. Reverse Words in a String III](ii.-sorted-array/557.-reverse-words-in-a-string-iii.md)
 * [III. Binary Tree](iii.-binary-tree/README.md)
   * [144. Binary Tree Preorder Traversal](iii.-binary-tree/704.-binary-search.md)
+  * [94. Binary Tree Inorder Traversal](iii.-binary-tree/94.-binary-tree-inorder-traversal.md)
+  * [145. Binary Tree Postorder Traversal](iii.-binary-tree/145.-binary-tree-postorder-traversal.md)
 * [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
