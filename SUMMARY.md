@@ -25,6 +25,7 @@
   * [144. Binary Tree Preorder Traversal](iii.-binary-tree/704.-binary-search.md)
   * [94. Binary Tree Inorder Traversal](iii.-binary-tree/94.-binary-tree-inorder-traversal.md)
   * [145. Binary Tree Postorder Traversal](iii.-binary-tree/145.-binary-tree-postorder-traversal.md)
+  * [912. Sort an Array](iii.-binary-tree/912.-sort-an-array.md)
 * [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
