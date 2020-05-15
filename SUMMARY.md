@@ -28,6 +28,7 @@
   * [912. Sort an Array](iii.-binary-tree/912.-sort-an-array.md)
   * [104. Maximum Depth of Binary Tree](iii.-binary-tree/104.-maximum-depth-of-binary-tree.md)
   * [110. Balanced Binary Tree](iii.-binary-tree/110.-balanced-binary-tree.md)
+* [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum.md)
 * [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
