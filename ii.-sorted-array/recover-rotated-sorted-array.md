@@ -4,7 +4,7 @@ description: '# Easy'
 
 # \# Recover rotated sorted array
 
-{% hint style="info" %}
+{% hint style="success" %}
 Three steps rotation\(三步翻转法\)
 {% endhint %}
 
