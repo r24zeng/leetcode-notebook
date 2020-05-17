@@ -33,6 +33,7 @@
   * [102. Binary Tree Level Order Traversal](iii.-binary-tree/102.-binary-tree-level-order-traversal.md)
   * [107. Binary Tree Level Order Traversal II](iii.-binary-tree/107.-binary-tree-level-order-traversal-ii.md)
   * [103. Binary Tree Zigzag Level Order Traversal](iii.-binary-tree/103.-binary-tree-zigzag-level-order-traversal.md)
+  * [98. Validate Binary Search Tree](iii.-binary-tree/98.-validate-binary-search-tree.md)
 * [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
