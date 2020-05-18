@@ -16,9 +16,9 @@ Postorder Traversal  \(后序遍历\): leftpostorder -&gt; right postorder -&gt;
 
 ### 遍历2
 
-#### DFS（深度遍历）
+#### DFS（深度遍历）: stack
 
-#### BFS（广度遍历）
+#### BFS（广度遍历）: queue
 
 
 
