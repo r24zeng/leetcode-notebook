@@ -6,7 +6,7 @@ description: '# easy'
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Key idea: the condition of jump out of while loop
 
 ### 核心： 跳出while循环的关键
