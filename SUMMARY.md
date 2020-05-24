@@ -39,6 +39,7 @@
 * [IV. Permutations and Subsets](iv.-permutations-and-subsets/README.md)
   * [78. Subsets](iv.-permutations-and-subsets/78.-subsets.md)
   * [90. Subsets II](iv.-permutations-and-subsets/90.-subsets-ii.md)
+  * [60. Permutation Sequence](iv.-permutations-and-subsets/60.-permutation-sequence.md)
 * [206. Reverse Linked List II](reverse-linked-list-ii.md)
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
