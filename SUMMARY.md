@@ -57,7 +57,7 @@
   * [86. Partition List](vi.-linked-list/86.-partition-list.md)
   * [141. Linked List Cycle](vi.-linked-list/141.-linked-list-cycle.md)
   * [142. Linked List Cycle II](vi.-linked-list/142.-linked-list-cycle-ii.md)
-* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
+  * [23. Merge k Sorted Lists](vi.-linked-list/23.-merge-k-sorted-lists.md)
 * [120. Triangle](120.-triangle.md)
 * [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
