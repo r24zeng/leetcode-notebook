@@ -14,3 +14,9 @@ Expensive memory to cost. Has to record all points.
 
 > 也可自底而上，从最底层开始初始化记录，然后再从倒数第二层来按照题目意思计算记录，直到计算出所有的记录。
 
+### Three common types of DP:
+
+1. Matrix DP
+2. Sequence DP
+3. Two sequences DP
+
