@@ -62,6 +62,5 @@
 * [IX. Dynamic Programming](ix.-dynamic-programming/README.md)
   * [70. Climbing Stairs](ix.-dynamic-programming/70.-climbing-stairs.md)
   * [120. Triangle](ix.-dynamic-programming/120.-triangle.md)
-* [Untitled](untitled.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
