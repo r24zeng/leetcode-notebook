@@ -58,7 +58,10 @@
   * [141. Linked List Cycle](vi.-linked-list/141.-linked-list-cycle.md)
   * [142. Linked List Cycle II](vi.-linked-list/142.-linked-list-cycle-ii.md)
   * [23. Merge k Sorted Lists](vi.-linked-list/23.-merge-k-sorted-lists.md)
-* [120. Triangle](120.-triangle.md)
-* [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
+  * [138. Copy List with Random Pointer](vi.-linked-list/138.-copy-list-with-random-pointer.md)
+* [IX. Dynamic Programming](ix.-dynamic-programming/README.md)
+  * [70. Climbing Stairs](ix.-dynamic-programming/70.-climbing-stairs.md)
+  * [120. Triangle](ix.-dynamic-programming/120.-triangle.md)
+* [Untitled](untitled.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
