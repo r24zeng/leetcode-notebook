@@ -65,5 +65,8 @@
   * [62. Unique Paths](ix.-dynamic-programming/62.-unique-paths.md)
   * [63. Unique Paths II](ix.-dynamic-programming/63.-unique-paths-ii.md)
   * [64. Minimum Path Sum](ix.-dynamic-programming/64.-minimum-path-sum.md)
+  * [55. Jump Game](ix.-dynamic-programming/55.-jump-game.md)
+  * [300. Longest Increasing Subsequence](ix.-dynamic-programming/300.-longest-increasing-subsequence.md)
+  * [139. Word Break](ix.-dynamic-programming/139.-word-break.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
