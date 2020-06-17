@@ -8,7 +8,7 @@ In order to do deep copy all the time, we have to build list like this: `list = 
 [Refer link](https://blog.csdn.net/sjtuxx_lee/article/details/86709535)
 {% endhint %}
 
-> 动态规划的本质是记忆化搜索，自上而下，每次搜索只记录一个值，已经计算过的值不再重复计算。
+> 动态规划的本质是记忆化搜索，自上而下，每次搜索只记录一个值，已经计算过的值不再重复计算。一般不使用recursive，而是使用iterative.
 
 ### Advantage:
 
