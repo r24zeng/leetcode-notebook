@@ -68,5 +68,6 @@
   * [55. Jump Game](ix.-dynamic-programming/55.-jump-game.md)
   * [300. Longest Increasing Subsequence](ix.-dynamic-programming/300.-longest-increasing-subsequence.md)
   * [139. Word Break](ix.-dynamic-programming/139.-word-break.md)
+  * [132. Palindrome Partitioning II](ix.-dynamic-programming/132.-palindrome-partitioning-ii.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
