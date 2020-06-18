@@ -36,5 +36,22 @@ Expensive memory to cost. Has to record all points.
 如果要求写出所有解，那么就是暴力搜索，DP做不出来
 {% endhint %}
 
+### 动态规划的要素总结：
+
+1. status：用什么DP来解决问题，并且代表什么含义
+2. * Matrix DP: `f[i][j]` 表示从`（1，1）`走到`（i，j）`…
+   * Sequence DP：`f[i]` 表示前 `i` 个 ……
+   * Two-sequence DP: `f[i][j]` 表示前 `i` 个匹配上前 `j` 个……
+   * Interval DP：`f[i][j]` 表示区间 `i -> j` ……
+3. transfer: 更新的判断条件
+4. 
+5. initialize：初始化第一个元素作为后续的基础
+6. * `f[i][0], f[0][i]`
+   * `f[0]`
+7. answer：return值是什么
+8. 
+9. loop: 循环如何写
+10. * interval:  区间从小到大，先枚举区间的长度
+
 
 

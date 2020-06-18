@@ -72,5 +72,6 @@
   * [72. Edit Distance](ix.-dynamic-programming/72.-edit-distance.md)
   * [1143. Longest Common Subsequence](ix.-dynamic-programming/1143.-longest-common-subsequence.md)
   * [97. Interleaving String](ix.-dynamic-programming/97.-interleaving-string.md)
+  * [115. Distinct Subsequences](ix.-dynamic-programming/115.-distinct-subsequences.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
