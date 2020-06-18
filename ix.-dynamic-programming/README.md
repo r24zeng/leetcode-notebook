@@ -25,7 +25,7 @@ Expensive memory to cost. Has to record all points.
 ### Three common types of DP:
 
 1. Matrix DP
-2. Sequence DP
+2. Sequence DP \(通常会多开一位，将0位空出来初始化，这样后面的元素才有依据\)
 3. Two sequences DP
 
 ![](../.gitbook/assets/1592236022175.jpg)

@@ -69,6 +69,8 @@
   * [300. Longest Increasing Subsequence](ix.-dynamic-programming/300.-longest-increasing-subsequence.md)
   * [139. Word Break](ix.-dynamic-programming/139.-word-break.md)
   * [132. Palindrome Partitioning II](ix.-dynamic-programming/132.-palindrome-partitioning-ii.md)
-  * [140. Word Break II](ix.-dynamic-programming/140.-word-break-ii.md)
+  * [72. Edit Distance](ix.-dynamic-programming/72.-edit-distance.md)
+  * [1143. Longest Common Subsequence](ix.-dynamic-programming/1143.-longest-common-subsequence.md)
+  * [97. Interleaving String](ix.-dynamic-programming/97.-interleaving-string.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 
