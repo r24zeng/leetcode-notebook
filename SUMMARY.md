@@ -81,4 +81,5 @@
 * [101. Symmetric Tree](101.-symmetric-tree.md)
 * [96. Unique Binary Search Trees](96.-unique-binary-search-trees.md)
 * [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
+* [226. Invert Binary Tree](226.-invert-binary-tree.md)
 
