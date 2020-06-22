@@ -75,4 +75,10 @@
   * [115. Distinct Subsequences](ix.-dynamic-programming/115.-distinct-subsequences.md)
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 * [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
+* [112. Path Sum](112.-path-sum.md)
+* [113. Path Sum II](113.-path-sum-ii.md)
+* [100. Same Tree](100.-same-tree.md)
+* [101. Symmetric Tree](101.-symmetric-tree.md)
+* [96. Unique Binary Search Trees](96.-unique-binary-search-trees.md)
+* [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
 
