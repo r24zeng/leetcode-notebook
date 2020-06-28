@@ -88,5 +88,7 @@
 * [167. Two Sum II - Input array is sorted](167.-two-sum-ii-input-array-is-sorted.md)
 * [29. Divide Two Integers](divid-two-integer.md)
 * [349. Intersection of Two Arrays](349.-intersection-of-two-arrays.md)
-* [Untitled](untitled.md)
+* [287. Find the Duplicate Number](untitled.md)
+* [222. Count Complete Tree Nodes](222.-count-complete-tree-nodes.md)
+* [350. Intersection of Two Arrays II](350.-intersection-of-two-arrays-ii.md)
 

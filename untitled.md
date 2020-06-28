@@ -1,4 +1,8 @@
-# Untitled
+---
+description: '# Medium'
+---
+
+# 287. Find the Duplicate Number
 
 {% hint style="info" %}
 特别难想到。
