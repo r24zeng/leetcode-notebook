@@ -83,4 +83,8 @@
 * [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
 * [226. Invert Binary Tree](226.-invert-binary-tree.md)
 * [95. Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md)
+* [50. Pow\(x, n\)](50.-pow-x-n.md)
+* [69. Sqrt\(x\)](69.-sqrt-x.md)
+* [167. Two Sum II - Input array is sorted](167.-two-sum-ii-input-array-is-sorted.md)
+* [Divid two integer](divid-two-integer.md)
 
