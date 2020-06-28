@@ -87,4 +87,6 @@
 * [69. Sqrt\(x\)](69.-sqrt-x.md)
 * [167. Two Sum II - Input array is sorted](167.-two-sum-ii-input-array-is-sorted.md)
 * [29. Divide Two Integers](divid-two-integer.md)
+* [349. Intersection of Two Arrays](349.-intersection-of-two-arrays.md)
+* [Untitled](untitled.md)
 
