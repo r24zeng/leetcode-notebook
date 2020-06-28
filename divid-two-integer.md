@@ -27,37 +27,46 @@ $$x1>>31 \text{  ?=  } x2>>31$$
 {% tabs %}
 {% tab title="Python" %}
 ```python
-def solution(dividend, divisor):
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
         # edge case
+        Min = -(1<<31)
+        Max = (1<<31) - 1
+        print(Min, Max)
+        if dividend < Min or dividend > Max:
+            print("yes")
+            return (1<<31) - 1
         if abs(divisor) > abs(dividend):
             return 0
         if divisor == dividend:
             return 1
 
+        result = self.divid(abs(dividend), abs(divisor))
         if (divisor >> 31) != (dividend >> 31):
-            result = divid(abs(dividend), abs(divisor))
-            result = 0 - result
+            result = min(max(-result, Min), Max)
         else:
-            result = divid(abs(dividend), abs(divisor))
-
+            result = min(max(result, Min), Max)
+            
         return result
+        
+    
+    def divid(self, target, divisor):
+        # stop condition
+        if divisor > target:
+            return 0
+        if divisor == target:
+            return 1
 
-def divid(target, divisor):
-    # stop condition
-    if divisor > target:
-        return 0
-    if divisor == target:
-        return 1
-
-    # regular case
-    i = 0
-    x = divisor
-    while x < target:
-        i = i + 1
-        x = divisor << i
-        # print(i, x)
-    target = target - (x >> 1)
-    return (1 << (i-1)) + divid(target, divisor)
+        # regular case
+        i = 0
+        x = divisor
+        while x < target:
+            i = i + 1
+            x = divisor << i
+            # print(i, x)
+        target = target - (x >> 1)
+        return (1 << (i-1)) + self.divid(target, divisor)
+            
 ```
 {% endtab %}
 {% endtabs %}

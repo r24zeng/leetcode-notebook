@@ -4,7 +4,7 @@ description: '#704. Binary Search (二分查找法原型代)'
 
 # I. Binary Search
 
-Recursive is easier to write and understand;
+Recursive is easier to write and understande;
 
 While loop is more complicated to write, but not easy to enter dead loop, and you'll impresive the interviewer because most interviewees prefer recursive. 
 
@@ -14,7 +14,7 @@ If it's too complicated to code with while then use recursive to save time, othe
 ### Key point:
 
 * start + 1 &lt; end   （防止死循环）
-* mid = start + \(end-start\)/2
+* mid = start + \(send-start\)/2
 * A\[mid\] =, &lt; , &gt;
 * A\[start\]  A\[end\]  ? target
 {% endhint %}
