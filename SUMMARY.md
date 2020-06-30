@@ -96,4 +96,5 @@
 * [437. Path Sum III](437.-path-sum-iii.md)
 * [7. Reverse Integer](7.-reverse-integer.md)
 * [21. Merge Two Sorted Lists](21.-merge-two-sorted-lists.md)
+* [279. Perfect Squares](279.-perfect-squares.md)
 
