@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
+
+## 完全按照九章算法刷的，70道左右 <a id="wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you"></a>
+
+---
+
 * [I. Binary Search](binary-search/README.md)
   * [34.Find First and Last Position of Element in Sorted Array](binary-search/34.find-first-and-last-position-of-element-in-sorted-array.md)
   * [35. Search Insert Position](binary-search/untitled.md)
@@ -73,6 +78,11 @@
   * [1143. Longest Common Subsequence](ix.-dynamic-programming/1143.-longest-common-subsequence.md)
   * [97. Interleaving String](ix.-dynamic-programming/97.-interleaving-string.md)
   * [115. Distinct Subsequences](ix.-dynamic-programming/115.-distinct-subsequences.md)
+
+## 开始自己刷，冲刺100道，主要是binarySearch&Tree <a id="binary-search-and-tree"></a>
+
+---
+
 * [981. Time Based Key-Value Store](981.-time-based-key-value-store.md)
 * [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum](112.-path-sum.md)
@@ -104,4 +114,8 @@
 * [213. House Robber II](213.-house-robber-ii.md)
 * [337. House Robber III](337.-house-robber-iii.md)
 * [236. Lowest Common Ancestor of a Binary Tree](236.-lowest-common-ancestor-of-a-binary-tree.md)
+
+## 终于刷到100道了，我是分水岭
+
+* [Untitled](zhong-yu-shua-dao-100-dao-le-wo-shi-fen-shui-ling/untitled.md)
 
