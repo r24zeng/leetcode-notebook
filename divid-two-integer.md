@@ -2,7 +2,7 @@
 description: '# Medium'
 ---
 
-# 29. Divide Two Integers
+# 29. Divide Two Integers\*
 
 {% hint style="info" %}
 不难想，但是很难写对。只能用位运算完成。

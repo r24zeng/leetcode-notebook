@@ -96,7 +96,7 @@
 * [50. Pow\(x, n\)](50.-pow-x-n.md)
 * [69. Sqrt\(x\)](69.-sqrt-x.md)
 * [167. Two Sum II - Input array is sorted](167.-two-sum-ii-input-array-is-sorted.md)
-* [29. Divide Two Integers](divid-two-integer.md)
+* [29. Divide Two Integers\*](divid-two-integer.md)
 * [349. Intersection of Two Arrays](349.-intersection-of-two-arrays.md)
 * [287. Find the Duplicate Number](untitled.md)
 * [222. Count Complete Tree Nodes](222.-count-complete-tree-nodes.md)
@@ -115,7 +115,12 @@
 * [337. House Robber III](337.-house-robber-iii.md)
 * [236. Lowest Common Ancestor of a Binary Tree](236.-lowest-common-ancestor-of-a-binary-tree.md)
 
-## 终于刷到100道了，我是分水岭
+## 终于刷到100道了，我是分水岭，开始按照网上推荐重点250道题 <a id="zhong-yu-shua-dao-100-dao-le-wo-shi-fen-shui-ling"></a>
 
-* [Untitled](zhong-yu-shua-dao-100-dao-le-wo-shi-fen-shui-ling/untitled.md)
+* [3. Longest Substring Without Repeating Characters](zhong-yu-shua-dao-100-dao-le-wo-shi-fen-shui-ling/untitled.md)
+
+---
+
+* [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
+* [9. Palindrome Number](9.-palindrome-number.md)
 
