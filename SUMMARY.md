@@ -128,4 +128,5 @@
 * [13. Roman to Integer](13.-roman-to-integer.md)
 * [15. 3Sum](15.-3sum.md)
 * [18. 4Sum](18.-4sum.md)
+* [20. Valid Parentheses](20.-valid-parentheses.md)
 
