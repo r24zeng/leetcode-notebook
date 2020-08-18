@@ -129,4 +129,7 @@
 * [15. 3Sum](15.-3sum.md)
 * [18. 4Sum](18.-4sum.md)
 * [20. Valid Parentheses](20.-valid-parentheses.md)
+* [22. Generate Parentheses](22.-generate-parentheses.md)
+* [27. Remove Element](27.-remove-element.md)
+* [28. Implement strStr\(\)](28.-implement-strstr.md)
 
