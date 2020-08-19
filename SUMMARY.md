@@ -18,7 +18,6 @@
   * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
   * [154. Find Minimum in Rotated Sorted Array II](binary-search/154.-find-minimum-in-rotated-sorted-array-ii.md)
 * [II. Sorted Array](ii.-sorted-array/README.md)
-  * [Untitled](ii.-sorted-array/untitled.md)
   * [88. Merge Sorted Array](ii.-sorted-array/88.-merge-sorted-array.md)
   * [23. Merge k Sorted Lists](ii.-sorted-array/23.-merge-k-sorted-lists-1.md)
   * [4. Median of Two Sorted Arrays](ii.-sorted-array/4.-median-of-two-sorted-arrays.md)
@@ -132,4 +131,6 @@
 * [22. Generate Parentheses](22.-generate-parentheses.md)
 * [27. Remove Element](27.-remove-element.md)
 * [28. Implement strStr\(\)](28.-implement-strstr.md)
+* [31. Next Permutation](31.-next-permutation.md)
+* [36. Valid Sudoku](36.-valid-sudoku.md)
 
