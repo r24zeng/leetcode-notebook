@@ -135,4 +135,6 @@
 * [36. Valid Sudoku](36.-valid-sudoku.md)
 * [38. Count and Say](38.-count-and-say.md)
 * [40. Combination Sum II](40.-combination-sum-ii.md)
+* [41. First Missing Positive](41.-first-missing-positive.md)
+* [48. Rotate Image](48.-rotate-image.md)
 

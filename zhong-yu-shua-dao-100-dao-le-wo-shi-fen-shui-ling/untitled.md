@@ -15,6 +15,8 @@ Two methods:
 
 Know the longest length of first `i` chars, then the longest length of first `i+1` chars is max\(`longest[i]`, longest length from `i+1` to `0`\).
 
+{% tabs %}
+{% tab title="Python" %}
 ```python
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
@@ -41,6 +43,8 @@ class Solution(object):
             
         return longest
 ```
+{% endtab %}
+{% endtabs %}
 
 Time complexity = $$O(n^2)$$ , space complexity = $$O(n)$$ .效率很低
 
