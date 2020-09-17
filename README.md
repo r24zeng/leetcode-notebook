@@ -2,7 +2,7 @@
 
 ## Getting start with my LeetCode 
 
-I will give brief explanation my solution to each problem from now on in both Chinese and English, but not the code so as to not rely on memorization.
+I will give brief explanation my solution to each problem from now on in both Chinese and English.
 
 Easy problem 5 - 10 min; Medium problem 10 - 15 min. Bug free.
 
