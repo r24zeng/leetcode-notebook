@@ -134,4 +134,6 @@
 * [41. First Missing Positive](41.-first-missing-positive.md)
 * [48. Rotate Image](48.-rotate-image.md)
 * [43. Multiply Strings](43.-multiply-strings.md)
+* [49. Group Anagrams](49.-group-anagrams.md)
+* [53. Maximum Subarray](53.-maximum-subarray.md)
 
