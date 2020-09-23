@@ -141,4 +141,5 @@
   * [66. Plus One](bu-chong-2140-dao/66.-plus-one.md)
   * [67. Add Binary](bu-chong-2140-dao/67.-add-binary.md)
   * [71. Simplify Path](bu-chong-2140-dao/71.-simplify-path.md)
+  * [75. Sort Colors](bu-chong-2140-dao/75.-sort-colors.md)
 
