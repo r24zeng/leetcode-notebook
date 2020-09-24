@@ -144,4 +144,5 @@
   * [75. Sort Colors](bu-chong-2140-dao/75.-sort-colors.md)
   * [77. Combinations](bu-chong-2140-dao/77.-combinations.md)
   * [79. Word Search](bu-chong-2140-dao/79.-word-search.md)
+  * [91. Decode Ways](bu-chong-2140-dao/91.-decode-ways.md)
 
