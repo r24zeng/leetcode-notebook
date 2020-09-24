@@ -150,4 +150,5 @@
   * [117. Populating Next Right Pointers in Each Node II](bu-chong-2140-dao/117.-populating-next-right-pointers-in-each-node-ii.md)
   * [121. Best Time to Buy and Sell Stock](bu-chong-2140-dao/121.-best-time-to-buy-and-sell-stock.md)
   * [122. Best Time to Buy and Sell Stock II](bu-chong-2140-dao/122.-best-time-to-buy-and-sell-stock-ii.md)
+  * [125. Valid Palindrome](bu-chong-2140-dao/125.-valid-palindrome.md)
 
