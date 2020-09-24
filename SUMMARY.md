@@ -142,4 +142,6 @@
   * [67. Add Binary](bu-chong-2140-dao/67.-add-binary.md)
   * [71. Simplify Path](bu-chong-2140-dao/71.-simplify-path.md)
   * [75. Sort Colors](bu-chong-2140-dao/75.-sort-colors.md)
+  * [77. Combinations](bu-chong-2140-dao/77.-combinations.md)
+  * [79. Word Search](bu-chong-2140-dao/79.-word-search.md)
 
