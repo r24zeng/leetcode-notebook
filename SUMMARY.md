@@ -153,4 +153,5 @@
   * [125. Valid Palindrome](bu-chong-2140-dao/125.-valid-palindrome.md)
   * [133. Clone Graph](bu-chong-2140-dao/133.-clone-graph.md)
   * [134. Gas Station](bu-chong-2140-dao/untitled.md)
+  * [146. LRU Cache](bu-chong-2140-dao/146.-lru-cache.md)
 
