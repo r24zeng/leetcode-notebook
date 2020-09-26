@@ -163,4 +163,7 @@
   * [157. Read N Characters Given Read4](bu-chong-2140-dao/157.-read-n-characters-given-read4.md)
 * [补充40-60道](bu-chong-4060-dao/README.md)
   * [160. One Edit Distance](bu-chong-4060-dao/158.-read-n-characters-given-read4-ii-call-multiple-times.md)
+  * [163. Missing Ranges](bu-chong-4060-dao/163.-missing-ranges.md)
+  * [168. Excel Sheet Column Title](bu-chong-4060-dao/168.-excel-sheet-column-title.md)
+  * [169. Majority Element\(位运算\)](bu-chong-4060-dao/169.-majority-element-wei-yun-suan.md)
 
