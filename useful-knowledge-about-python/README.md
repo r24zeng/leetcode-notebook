@@ -1,0 +1,2 @@
+# Useful knowledge about Python
+

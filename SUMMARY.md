@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Useful knowledge about Python](useful-knowledge-about-python/README.md)
+  * [queue 和 stack如何用python实现](useful-knowledge-about-python/queue-he-stack-ru-he-yong-python-shi-xian.md)
+  * [List and Dictionary 常用的函数](useful-knowledge-about-python/list-and-dictionary-chang-yong-de-han-shu.md)
+  * [Common Mistakes about Python](useful-knowledge-about-python/common-mistakes-about-python.md)
 
 ## 完全按照九章算法刷的，70道左右 <a id="wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you"></a>
 
@@ -25,7 +29,6 @@
   * [80. Remove Duplicates from Sorted Array II](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/ii.-sorted-array/80.-remove-duplicates-from-sorted-array-ii.md)
   * [557. Reverse Words in a String III](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/ii.-sorted-array/557.-reverse-words-in-a-string-iii.md)
 * [III. Binary Tree](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/iii.-binary-tree/README.md)
-  * [queue 和 stack如何用python实现](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/iii.-binary-tree/queue-he-stack-ru-he-yong-python-shi-xian.md)
   * [144. Binary Tree Preorder Traversal](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/iii.-binary-tree/704.-binary-search.md)
   * [94. Binary Tree Inorder Traversal](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/iii.-binary-tree/94.-binary-tree-inorder-traversal.md)
   * [145. Binary Tree Postorder Traversal](wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you/iii.-binary-tree/145.-binary-tree-postorder-traversal.md)
@@ -154,4 +157,10 @@
   * [133. Clone Graph](bu-chong-2140-dao/133.-clone-graph.md)
   * [134. Gas Station](bu-chong-2140-dao/untitled.md)
   * [146. LRU Cache](bu-chong-2140-dao/146.-lru-cache.md)
+  * [150. Evaluate Reverse Polish Notation](bu-chong-2140-dao/150.-evaluate-reverse-polish-notation.md)
+  * [152. Maximum Product Subarray](bu-chong-2140-dao/152.-maximum-product-subarray.md)
+  * [155. Min Stack](bu-chong-2140-dao/155.-min-stack.md)
+  * [157. Read N Characters Given Read4](bu-chong-2140-dao/157.-read-n-characters-given-read4.md)
+* [补充40-60道](bu-chong-4060-dao/README.md)
+  * [160. One Edit Distance](bu-chong-4060-dao/158.-read-n-characters-given-read4-ii-call-multiple-times.md)
 
