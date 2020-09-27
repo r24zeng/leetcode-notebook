@@ -166,4 +166,5 @@
   * [163. Missing Ranges](bu-chong-4060-dao/163.-missing-ranges.md)
   * [168. Excel Sheet Column Title](bu-chong-4060-dao/168.-excel-sheet-column-title.md)
   * [169. Majority Element\(位运算\)](bu-chong-4060-dao/169.-majority-element-wei-yun-suan.md)
+  * [Two Sum III - Data structure design](bu-chong-4060-dao/two-sum-iii-data-structure-design.md)
 
