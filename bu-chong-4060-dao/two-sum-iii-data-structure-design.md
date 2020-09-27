@@ -2,7 +2,7 @@
 description: '# Easy'
 ---
 
-# Two Sum III - Data structure design
+# 170. Two Sum III - Data structure design
 
 {% hint style="info" %}
 题意：设计一个数据结构，能完成add\(number\)和find\(target\)两个函数。find\(target\) 如果能找到一对数字之和等于target，返回True，否则返回False.
