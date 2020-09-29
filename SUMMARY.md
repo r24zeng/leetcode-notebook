@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Useful knowledge about Python](useful-knowledge-about-python/README.md)
   * [queue 和 stack如何用python实现](useful-knowledge-about-python/queue-he-stack-ru-he-yong-python-shi-xian.md)
-  * [List and Dictionary 常用的函数](useful-knowledge-about-python/list-and-dictionary-chang-yong-de-han-shu.md)
+  * [List, Dictionary, Set 常用的函数](useful-knowledge-about-python/list-and-dictionary-chang-yong-de-han-shu.md)
   * [Common Mistakes about Python](useful-knowledge-about-python/common-mistakes-about-python.md)
 
 ## 完全按照九章算法刷的，70道左右 <a id="wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you"></a>
@@ -161,7 +161,7 @@
   * [152. Maximum Product Subarray](bu-chong-2140-dao/152.-maximum-product-subarray.md)
   * [155. Min Stack](bu-chong-2140-dao/155.-min-stack.md)
   * [157. Read N Characters Given Read4](bu-chong-2140-dao/157.-read-n-characters-given-read4.md)
-* [补充40-60道](bu-chong-4060-dao/README.md)
+* [补充41-60道](bu-chong-4060-dao/README.md)
   * [160. One Edit Distance](bu-chong-4060-dao/158.-read-n-characters-given-read4-ii-call-multiple-times.md)
   * [163. Missing Ranges](bu-chong-4060-dao/163.-missing-ranges.md)
   * [168. Excel Sheet Column Title](bu-chong-4060-dao/168.-excel-sheet-column-title.md)
@@ -178,4 +178,10 @@
   * [183. Customers Who Never Order\(SQL\)](bu-chong-4060-dao/183.-customers-who-never-order-sql.md)
   * [184. Department Highest Salary\(SQL\)](bu-chong-4060-dao/184.-department-highest-salary-sql.md)
   * [185. Department Top Three Salaries\(SQL\)](bu-chong-4060-dao/185.-department-top-three-salaries-sql.md)
+  * [57. Insert Interval](bu-chong-4060-dao/57.-insert-interval.md)
+  * [355. Design Twitter](bu-chong-4060-dao/355.-design-twitter.md)
+  * [328. Odd Even Linked List\(经典\)](bu-chong-4060-dao/328.-odd-even-linked-list-jing-dian.md)
+* [补充61-80道](bu-chong-6180-dao/README.md)
+  * [378. Kth Smallest Element in a Sorted Matrix](bu-chong-6180-dao/378.-kth-smallest-element-in-a-sorted-matrix.md)
+  * [309. Best Time to Buy and Sell Stock with Cooldown](bu-chong-6180-dao/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
 
