@@ -5,6 +5,7 @@
   * [queue 和 stack如何用python实现](useful-knowledge-about-python/queue-he-stack-ru-he-yong-python-shi-xian.md)
   * [List, Dictionary, Set 常用的函数](useful-knowledge-about-python/list-and-dictionary-chang-yong-de-han-shu.md)
   * [Common Mistakes about Python](useful-knowledge-about-python/common-mistakes-about-python.md)
+  * [Bit operation](useful-knowledge-about-python/bit-operation.md)
 
 ## 完全按照九章算法刷的，70道左右 <a id="wan-quan-an-zhao-jiu-zhang-suan-fa-shua-de-60-dao-zuo-you"></a>
 
@@ -184,4 +185,12 @@
 * [补充61-80道](bu-chong-6180-dao/README.md)
   * [378. Kth Smallest Element in a Sorted Matrix](bu-chong-6180-dao/378.-kth-smallest-element-in-a-sorted-matrix.md)
   * [309. Best Time to Buy and Sell Stock with Cooldown](bu-chong-6180-dao/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
+  * [186. Reverse Words in a String II](bu-chong-6180-dao/186.-reverse-words-in-a-string-ii.md)
+  * [190. Reverse Bits\(bit\)](bu-chong-6180-dao/190.-reverse-bits-bit.md)
+  * [191. Number of 1 Bits\(bit\)](bu-chong-6180-dao/191.-number-of-1-bits-bit.md)
+  * [196. Delete Duplicate Emails（SQL）](bu-chong-6180-dao/196.-delete-duplicate-emails-sql.md)
+  * [197. Rising Temperature\(SQL\)](bu-chong-6180-dao/197.-rising-temperature-sql.md)
+  * [200. Number of Islands](bu-chong-6180-dao/200.-number-of-islands.md)
+  * [201. Bitwise AND of Numbers Range](bu-chong-6180-dao/201.-bitwise-and-of-numbers-range.md)
+  * [202. Happy Number](bu-chong-6180-dao/202.-happy-number.md)
 
