@@ -195,4 +195,7 @@
   * [202. Happy Number](bu-chong-6180-dao/202.-happy-number.md)
   * [204. Count Primes](bu-chong-6180-dao/204.-count-primes.md)
   * [205. Isomorphic Strings](bu-chong-6180-dao/205.-isomorphic-strings.md)
+  * [208. Implement Trie \(Prefix Tree\)](bu-chong-6180-dao/208.-implement-trie-prefix-tree.md)
+  * [211. Design Add and Search Words Data Structure](bu-chong-6180-dao/211.-design-add-and-search-words-data-structure.md)
+  * [215. Kth Largest Element in an Array](bu-chong-6180-dao/215.-kth-largest-element-in-an-array.md)
 
