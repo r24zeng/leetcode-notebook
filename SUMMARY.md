@@ -193,4 +193,6 @@
   * [200. Number of Islands](bu-chong-6180-dao/200.-number-of-islands.md)
   * [201. Bitwise AND of Numbers Range](bu-chong-6180-dao/201.-bitwise-and-of-numbers-range.md)
   * [202. Happy Number](bu-chong-6180-dao/202.-happy-number.md)
+  * [204. Count Primes](bu-chong-6180-dao/204.-count-primes.md)
+  * [205. Isomorphic Strings](bu-chong-6180-dao/205.-isomorphic-strings.md)
 
