@@ -198,4 +198,8 @@
   * [208. Implement Trie \(Prefix Tree\)](bu-chong-6180-dao/208.-implement-trie-prefix-tree.md)
   * [211. Design Add and Search Words Data Structure](bu-chong-6180-dao/211.-design-add-and-search-words-data-structure.md)
   * [215. Kth Largest Element in an Array](bu-chong-6180-dao/215.-kth-largest-element-in-an-array.md)
+  * [216. Combination Sum III](bu-chong-6180-dao/216.-combination-sum-iii.md)
+  * [217. Contains Duplicate](bu-chong-6180-dao/217.-contains-duplicate.md)
+  * [219. Contains Duplicate II](bu-chong-6180-dao/219.-contains-duplicate-ii.md)
+  * [220. Contains Duplicate III](bu-chong-6180-dao/220.-contains-duplicate-iii.md)
 
