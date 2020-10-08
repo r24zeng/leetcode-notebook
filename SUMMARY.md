@@ -203,5 +203,7 @@
   * [219. Contains Duplicate II](bu-chong-6180-dao/219.-contains-duplicate-ii.md)
   * [220. Contains Duplicate III](bu-chong-6180-dao/220.-contains-duplicate-iii.md)
   * [225. Implement Stack using Queues](bu-chong-6180-dao/225.-implement-stack-using-queues.md)
-* [补充81-100道](bu-chong-81100-dao.md)
+* [补充81-100道](bu-chong-81100-dao/README.md)
+  * [2. Add Two Numbers](bu-chong-81100-dao/2.-add-two-numbers.md)
+  * [19. Remove Nth Node From End of List](bu-chong-81100-dao/19.-remove-nth-node-from-end-of-list.md)
 
