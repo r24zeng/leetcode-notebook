@@ -211,4 +211,8 @@
   * [231. Power of Two](bu-chong-81100-dao/231.-power-of-two.md)
   * [232. Implement Queue using Stacks](bu-chong-81100-dao/232.-implement-queue-using-stacks.md)
   * [234. Palindrome Linked List](bu-chong-81100-dao/234.-palindrome-linked-list.md)
+  * [237. Delete Node in a Linked List](bu-chong-81100-dao/237.-delete-node-in-a-linked-list.md)
+  * [242. Valid Anagram](bu-chong-81100-dao/242.-valid-anagram.md)
+  * [258. Add Digits](bu-chong-81100-dao/258.-add-digits.md)
+  * [263. Ugly Number](bu-chong-81100-dao/263.-ugly-number.md)
 
