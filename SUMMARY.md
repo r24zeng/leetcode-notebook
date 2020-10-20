@@ -208,4 +208,7 @@
   * [19. Remove Nth Node From End of List](bu-chong-81100-dao/19.-remove-nth-node-from-end-of-list.md)
   * [227. Basic Calculator II](bu-chong-81100-dao/227.-basic-calculator-ii.md)
   * [228. Summary Ranges](bu-chong-81100-dao/228.-summary-ranges.md)
+  * [231. Power of Two](bu-chong-81100-dao/231.-power-of-two.md)
+  * [232. Implement Queue using Stacks](bu-chong-81100-dao/232.-implement-queue-using-stacks.md)
+  * [234. Palindrome Linked List](bu-chong-81100-dao/234.-palindrome-linked-list.md)
 
