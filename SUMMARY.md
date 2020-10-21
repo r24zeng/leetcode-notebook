@@ -215,4 +215,11 @@
   * [242. Valid Anagram](bu-chong-81100-dao/242.-valid-anagram.md)
   * [258. Add Digits](bu-chong-81100-dao/258.-add-digits.md)
   * [263. Ugly Number](bu-chong-81100-dao/263.-ugly-number.md)
+  * [268. Missing Number](bu-chong-81100-dao/268.-missing-number.md)
+  * [283. Move Zeroes](bu-chong-81100-dao/283.-move-zeroes.md)
+  * [290. Word Pattern](bu-chong-81100-dao/290.-word-pattern.md)
+  * [303. Range Sum Query - Immutable](bu-chong-81100-dao/303.-range-sum-query-immutable.md)
+  * [26. Power of Three](bu-chong-81100-dao/26.-power-of-three.md)
+  * [342. Power of Four](bu-chong-81100-dao/342.-power-of-four.md)
+  * [344. Reverse String](bu-chong-81100-dao/344.-reverse-string.md)
 
