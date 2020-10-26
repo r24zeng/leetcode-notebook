@@ -222,4 +222,5 @@
   * [26. Power of Three](bu-chong-81100-dao/26.-power-of-three.md)
   * [342. Power of Four](bu-chong-81100-dao/342.-power-of-four.md)
   * [344. Reverse String](bu-chong-81100-dao/344.-reverse-string.md)
+  * [655. Print Binary Tree](bu-chong-81100-dao/655.-print-binary-tree.md)
 
