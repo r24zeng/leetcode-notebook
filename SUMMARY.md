@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Useful knowledge about Python](useful-knowledge-about-python/README.md)
+  * [recursive vs iterative](useful-knowledge-about-python/recursive-vs-iterative.md)
   * [queue 和 stack如何用python实现](useful-knowledge-about-python/queue-he-stack-ru-he-yong-python-shi-xian.md)
   * [List, Dictionary, Set 常用的函数](useful-knowledge-about-python/list-and-dictionary-chang-yong-de-han-shu.md)
   * [Common Mistakes about Python](useful-knowledge-about-python/common-mistakes-about-python.md)
