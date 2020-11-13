@@ -14,6 +14,8 @@ Inorder Traversal  \(中序遍历\): left inorder -&gt; root -&gt; right inorder
 
 Postorder Traversal  \(后序遍历\): leftpostorder -&gt; right postorder -&gt; root
 
+![](../../.gitbook/assets/1605234348682.jpg)
+
 ### 遍历2
 
 #### DFS（深度遍历）: stack
